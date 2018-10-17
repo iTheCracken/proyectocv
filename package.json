@@ -1,0 +1,25 @@
+{
+  "name": "proyectocv",
+  "version": "1.0.0",
+  "description": "Primer proyecto con Grunt",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iTheCracken/proyectocv.git"
+  },
+  "author": "José Antonio Covarrubias Peralta <jcovarrubiasp_halo3@hotmail.com> (Cracken)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iTheCracken/proyectocv/issues"
+  },
+  "homepage": "https://github.com/iTheCracken/proyectocv#readme",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-connect": "^2.0.0",
+    "grunt-contrib-stylus": "^1.2.0",
+    "grunt-sass": "^3.0.2"
+  }
+}
